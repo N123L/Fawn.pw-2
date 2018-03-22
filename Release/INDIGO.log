@@ -1,0 +1,57 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (RESOLVE.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Aimbot.cpp
+  LagComp.cpp
+  Client.cpp
+  Esp.cpp
+  InventoryChanger.cpp
+  Misc.cpp
+  Radar.cpp
+  DynSkin.cpp
+  Skin.cpp
+  CSX_Cvar.cpp
+  CSX_Hook.cpp
+  CSX_Log.cpp
+  CSX_Memory.cpp
+  CSX_Utils.cpp
+  Engine.cpp
+  Entity.cpp
+  Hook.cpp
+  NetVar.cpp
+  Offset.cpp
+  Players.cpp
+  Generating Code...
+  Compiling...
+  Render.cpp
+  Weapon.cpp
+  Gui.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  License.cpp
+  Main.cpp
+  base_gcmessages.pb.cc
+  cstrike15_gcmessages.pb.cc
+  econ_gcmessages.pb.cc
+  engine_gcmessages.pb.cc
+  fatdemo.pb.cc
+  gcsdk_gcmessages.pb.cc
+  gcsystemmsgs.pb.cc
+  netmessages.pb.cc
+  network_connection.pb.cc
+  steamdatagram_messages.pb.cc
+  steammessages.pb.cc
+  ReflectiveLoader.cpp
+  Generating Code...
+  Compiling...
+  CRC.cpp
+  KeyValues.cpp
+  SDK.cpp
+  Spoofed.cpp
+  Vector.cpp
+  Vector2D.cpp
+  Vector4D.cpp
+  VMatrix.cpp
+  Settings.cpp
+  Generating Code...
+     Creating library C:\Users\liam\Desktop\fawn.pw\public\Release\fawn.lib and object C:\Users\liam\Desktop\fawn.pw\public\Release\fawn.exp
+  INDIGO.vcxproj -> C:\Users\liam\Desktop\fawn.pw\public\Release\fawn.dll

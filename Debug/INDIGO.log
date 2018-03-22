@@ -1,0 +1,22 @@
+﻿  Aimbot.cpp
+  LagComp.cpp
+  Client.cpp
+  Esp.cpp
+  Misc.cpp
+  Radar.cpp
+  DynSkin.cpp
+  Skin.cpp
+  Engine.cpp
+  Entity.cpp
+  Hook.cpp
+  NetVar.cpp
+  Offset.cpp
+  Players.cpp
+  Render.cpp
+  Weapon.cpp
+  Gui.cpp
+  License.cpp
+  Main.cpp
+  Settings.cpp
+     Создается библиотека C:\Users\xardc\source\repos\RESOLVE\Debug\RESOLVE.lib и объект C:\Users\xardc\source\repos\RESOLVE\Debug\RESOLVE.exp
+  INDIGO.vcxproj -> C:\Users\xardc\source\repos\RESOLVE\Debug\RESOLVE.dll
